@@ -1,3 +1,6 @@
 deneme içeriği
 
 belgenin localden düzenlendikten sonraki hali
+
+
+dosya branch'e commitlenecek
